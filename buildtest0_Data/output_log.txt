@@ -1,0 +1,113 @@
+Initialize engine version: 5.3.5f1 (960ebf59018a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics Family (ID=0xa16)
+    Vendor:   Intel
+    VRAM:     2103 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.225 seconds
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\gedell\Google Drive\NetworkGameLobbyTest\buildtest0_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.829649 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1a80 -> priority: 1 
+currentPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+currentPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+newPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+UnloadTime: 4.901774 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 653.
+Total: 1.968065 ms (FindLiveObjects: 0.063292 ms CreateObjectMapping: 0.065003 ms MarkObjects: 1.815820 ms  DeleteObjects: 0.023093 ms)
+
+currentPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+currentPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+currentPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+currentPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+currentPanel: MainPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+newPanel: LobbyPanel (UnityEngine.RectTransform)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 37)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:192.168.140.216:60318}
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:192.168.140.216:59766}
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 374)
+
